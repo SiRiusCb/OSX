@@ -1,4 +1,5 @@
 #!/bin/sh
+# All Rights reserved to SiRiusCb Inc.
 USER=`echo $USER`
 echo "Inserisci la password di root per eseguire la pulizia" && sudo echo .
 sudo rm -rfv /Users/siriuscb/Library/Caches/*
