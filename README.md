@@ -1,4 +1,4 @@
 # OSX Utility
-OS X Cleaner Tool
+OS X Pulitore
 
-This file simply clean junk/unuseful/temp files on your Apple OSX
+This script simply clean junk/unuseful/temp files on your Apple OSX
