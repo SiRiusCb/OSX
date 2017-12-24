@@ -14,7 +14,7 @@ sudo rm -fv /Volumes/DATA/Library/Caches/*
 sudo rm -rfv /Users/$USER/Library/Containers/*
 sudo touch /Users/$USER/Library/Caches/*
 sudo touch /var/db/*
-# sudo update_dyld_shared_cache -force
+sudo update_dyld_shared_cache -force
 sudo rm -fv ~/Desktop/.DS_Store
 sudo rm -fv /Users/$USER/Library/SafariTechnologyPreview/LocalStorage/*
 sudo rm -fv ~/Library/Caches/Metadata/Safari/History/*
